@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432151255846",
+    "firebase_url": "https://iottamonitoring.firebaseio.com",
+    "project_id": "iottamonitoring",
+    "storage_bucket": "iottamonitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432151255846:android:51704482779e1c9a403fe7",
+        "android_client_info": {
+          "package_name": "com.panjuak.background"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432151255846-n5vd3smj9het728o5nnkkprec9lt8ots.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDRhloimz28W14bPLhpjM7m6FjG27nkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432151255846-n5vd3smj9het728o5nnkkprec9lt8ots.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
